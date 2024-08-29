@@ -7,7 +7,7 @@ from lime.lime_tabular import LimeTabularExplainer
 import openai
 
 # OpenAI API key
-openai.api_key = "sk-McJlAlQ-KIgV3FnxSOAJFJyAg-twiXGaOnzWY3z98rT3BlbkFJ9GDS7vyU6SlS2ixI_qpCH3Moa-LkBQzDGYCf9zdN8A"  # Replace with your actual OpenAI API key
+openai.api_key = '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' # Replace with your actual OpenAI API key
 
 # Set the page layout
 st.set_page_config(layout="wide")
